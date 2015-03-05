@@ -40,4 +40,4 @@ colleagues. Every comment, suggestion or opinion we get makes the guide just a
 little bit better. And we want to have the best possible guide, don't we?
 
 Cheers,<br/>
-[Lucasosf](https://twitter.com/lucasosf)
+[Contributors](https://github.com/Lucasosf/aws-style-guide/graphs/contributors)
