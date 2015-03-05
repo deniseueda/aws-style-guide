@@ -13,8 +13,16 @@ soon
 
 ### Naming
 
+Naming instances is a important step to keep them organized. The name must to have a product prefix, a group prefix, an accountant and the region following by the company domain. This is the pattern:
+
 ```
-soon
+[product prefix].[group prefix].[accountant].[region].company.com
+```
+Some examples:
+
+```
+upd.cap.a.us-east-1.company.com
+group.workds.b.eu-west-1.company.com
 ```
 
 ### Tags
