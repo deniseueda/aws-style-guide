@@ -22,7 +22,7 @@ Some examples:
 
 ```
 upd.cap.a.us-east-1.company.com
-group.workds.b.eu-west-1.company.com
+group.workers.b.eu-west-1.company.com
 ```
 
 ### Tags
