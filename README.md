@@ -1,5 +1,9 @@
 # AWS Style Guide
-One thing that bothers me when I go work in other job is the different way of organizing and naming capabilities of AWS services that each company has. To try to join ideas and, inspired by the [ruby style guide](https://github.com/bbatsov/ruby-style-guide), I decided to create a common sense of organization to AWS resources. I do not know everything, but I hope the community can help me sharing their ideas in this repository.
+One thing that bothers me when I go work in other job is the different way of organizing and naming capabilities of AWS services that each company has. To try to join ideas and, inspired by the [ruby style guide](https://github.com/bbatsov/ruby-style-guide), I decided to create a common sense of organization to AWS resources.
+
+If you just started a AWS account now for your company then you can use this guide as a start line. If you have requirements that is unusual then you can fork this guide and keep updating to let people know how you solved your problems.
+
+I do not know everything, but I hope the community can help me sharing their ideas in this repository.
 
 ## Elastic Cloud Computing
 
