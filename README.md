@@ -7,11 +7,7 @@ I do not know everything, but I hope the community can help me sharing their ide
 
 ## Elastic Cloud Computing
 
-```
-soon
-```
-
-### Naming
+### Naming Instances
 
 Naming instances is a important step to keep them organized. The name must to have a product prefix, a group prefix, an accountant and the region following by the company domain. This is the pattern:
 
@@ -26,8 +22,12 @@ group.workers.b.eu-west-1.company.com
 ```
 
 ### Tags
+Tags are an important way to keep instances organized, and the essential tags for every instance is product and environment. Keeping instances well tagged, we can filter them in the cost explorer.
+
+Some examples:
 ```
-soon
+'Product' => 'My Product',
+'Environment' => 'production'
 ```
 
 ## How to Contribute?
