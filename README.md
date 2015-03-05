@@ -31,6 +31,9 @@ Some examples:
 'Environment' => 'production'
 ```
 
+### Security groups
+Every instance must to have two security groups by default and they are office and home-office. To add rules as needed.
+
 ## How to Contribute?
 
 It's easy, just follow the [contribution guidelines](https://github.com/lucasosf/aws-style-guide/blob/master/CONTRIBUTING.md).
