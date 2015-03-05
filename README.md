@@ -9,16 +9,17 @@ I do not know everything, but I hope the community can help me sharing their ide
 
 ### Naming Instances
 
-Naming instances is a important step to keep them organized. The name must to have a product prefix, a group prefix, an accountant and the region following by the company domain. This is the pattern:
+Naming instances is a important step to keep them organized. The name must to have a product prefix, a group prefix, an accountant and the region following by the company domain. Well, depending of the company, the group prefix can be optional. This is the pattern:
 
 ```
-[product prefix].[group prefix].[accountant].[region].company.com
+[product prefix].[group prefix (optional)].[accountant].[region].company.com
 ```
 Some examples:
 
 ```
 upd.cap.a.us-east-1.company.com
-group.workers.b.eu-west-1.company.com
+upd.b.us-east-1.company.com
+group.workers.c.eu-west-1.company.com
 ```
 
 ### Tags
@@ -26,7 +27,7 @@ Tags are an important way to keep instances organized, and the essential tags fo
 
 Some examples:
 ```
-'Product' => 'My Product',
+'Product' => 'my-product-slug',
 'Environment' => 'production'
 ```
 
